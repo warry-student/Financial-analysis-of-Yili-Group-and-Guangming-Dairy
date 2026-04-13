@@ -23,16 +23,16 @@ Target users: Investors, finance students, and analysts who need to understand p
 - Both companies experienced fluctuations after 2022, reflecting industry challenges.
 - Yili maintains stronger financial health overall.
 
- 5. How to Run
-1. Ensure you have Python installed.
-2. Load the dataset and run the notebook file.
-3. All charts will display automatically.
-4. No extra libraries are required beyond pandas and tkinter.
+5. How to Run
+- Ensure you have Python installed.
+- Load the dataset and run the notebook file.
+- All charts will display automatically.
+- No extra libraries are required beyond pandas and tkinter.
 
- 6. Product Link
+6. Product Link
 GitHub Repository:
 
- 7. Limitations & Next Steps
+7. Limitations & Next Steps
 - Limitations: Only annual data; no macroeconomic factors included.
 - Improvements: Add quarterly data, peer comparisons, and non-financial data.
 
