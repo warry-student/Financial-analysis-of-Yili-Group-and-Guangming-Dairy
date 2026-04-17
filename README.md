@@ -18,7 +18,7 @@ Target users: Investors, finance students, and analysts who need to understand p
 - Comparative analysis of two companies
 
 4. Key Findings
-It depends on the company you choose.
+(It depends on the company you choose.)
 - Yili has significantly higher profitability than Bright Dairy.
 - Yili’s solvency is relatively stable, while Bright Dairy shows weaker short‑term liquidity.
 - Both companies experienced fluctuations after 2022, reflecting industry challenges.
