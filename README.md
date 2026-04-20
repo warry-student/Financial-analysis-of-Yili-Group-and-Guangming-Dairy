@@ -1,7 +1,7 @@
 # Analysis of the profitability and debt-paying ability of the two companies
 1. Problem & User
-This project compares the financial performance of Yili and Guangming from 2020 to 2024.
-Target users: Investors, finance students, and analysts who need to understand profitability and solvency trends.
+-This project compares the financial performance of Yili and Guangming from 2020 to 2024.
+-Target users: Investors, finance students, and analysts who need to understand profitability and solvency trends.
 
 2. Data
 - Data source: CSMAR / WRDS
@@ -31,7 +31,7 @@ Target users: Investors, finance students, and analysts who need to understand p
 - No extra libraries are required beyond pandas and tkinter.
 
 6. Product Link
-GitHub Repository: https://github.com/warry-student/Financial-analysis-of-Yili-Group-and-Guangming-Dairy/tree/main
+-GitHub Repository: https://github.com/warry-student/Financial-analysis-of-Yili-Group-and-Guangming-Dairy/tree/main
 
 7. Limitations & Next Steps
 - Limitations: Only annual data
