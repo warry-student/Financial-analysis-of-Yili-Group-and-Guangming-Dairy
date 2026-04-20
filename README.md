@@ -3,7 +3,7 @@
 - This project compares the financial performance of Yili and Guangming from 2020 to 2024.
 - Target users: Investors, finance students, and analysts who need to understand profitability and solvency trends.
 
-3. Data
+2. Data
 - Data source: CSMAR / WRDS
 - Access date: April 2026
 - Companies: Yili (600887), Guangming (600597) (You can make modifications.)
